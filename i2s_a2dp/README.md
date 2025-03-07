@@ -1,1 +1,5 @@
+# I2S_A2DP TEMPLATE
+
+##### BEFORE STARTING THIS, PLEASE COMPLETE /A1_thinker_audio_board_template/README.md INSTRUCTIONS.
+
 
