@@ -5,8 +5,11 @@
 
 #### This Template helps new developers working with A1-Thnker esp32-audio-kit, get a good Start.
 * Example include:
-  * Using the Microphone by echoeing. -- Working
-  * Using the Bluetooth Stack -- A2DP works, HFP is a bit tricky getting the microphone to work.
+  * Using the Microphone by echoeing. -- Working.
+  * Using the Bluetooth Stack:
+     * A2DP: Words flawlessly.
+     * HFP: Speakers work, working on microphone.
+     * A2DP & HFP: Swithing profile works, still have microphone issues I am working on -- lmk if you fix it!! 
   * Using the onBoard SdCard.-- Working.
   * Using a .pcm file -- Working.
  
