@@ -39,3 +39,18 @@ In `main/main.c`, the following lines:
 -> extern const uint8_t music_pcm_end[]   asm("_binary_output_pcm_end"); //Grabs the pcm file
 ```
 Make sure the output.pcm file is located in the main directory.
+
+## ✅ Tested On
+* Board: AI Thinker ESP32 Audio Kit (ES8388)
+* ESP-IDF: v5.3.2
+* ESP-ADF: Latest stable
+* Output: Headphones via 3.5mm jack
+
+## 🧩 Related Files
+* globalVar.h: Contains constants like buffer size, timeouts, and clock configs.
+* board.c/.h: Use the ones from /A1_thinker_audio_board_template to ensure proper ES8388 support.
+
+## 🙌 Contributing
+If you make improvements (e.g. stereo support, variable latency, filtering), feel free to open a PR!
+
+Made with 🔉 by someone tired of digging through broken examples 😄
