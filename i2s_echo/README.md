@@ -6,7 +6,7 @@ This example demonstrates a simple **I2S microphone-to-speaker echo test** using
 
 > ⚠️ **Before starting:**  
 > Make sure you've completed the steps in  
-> [`/A1_thinker_audio_board_template/README.md`](../A1_thinker_audio_board_template/README.md).  
+> [`/AI_thinker_audio_board_template/README.md`](../README.md).  
 > That sets up the board files and ES8388 support for ESP-ADF.
 
 ---
