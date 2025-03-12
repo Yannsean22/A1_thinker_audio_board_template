@@ -1,5 +1,5 @@
 # AI_thinker_ESP32_audio_board_template - ES8388
-###### The AI_Thinker board I am using has the ES8388 Audio codec, if you are not sure about yours that is OK. Under "Chip check" there you can find out
+###### The AI_Thinker board I am using has the ES8388 Audio codec, if you are not sure about yours that is OK. Under "Chip_check" there you can find out
 ###### ESP-IDF VERSION 5.3.2.
 ###### ESP-ADF VERSION -- Works with whatever comes with it I think.
 
