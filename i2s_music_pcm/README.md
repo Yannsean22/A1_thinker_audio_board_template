@@ -4,6 +4,15 @@ This project demonstrates how to play embedded PCM audio on an ESP32 (Ai-thinker
 
 ---
 
+---
+
+> ⚠️ **Before starting:**  
+> Make sure you've completed the steps in  
+> [`/AI_thinker_audio_board_template/README.md`](../README.md).  
+> That sets up the board files and ES8388 support for ESP-ADF.
+
+---
+
 ## 🧠 Features
 
 - I2S audio output using the ES8388 codec
