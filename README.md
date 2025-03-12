@@ -93,3 +93,4 @@ Now you can build and run any ESP-ADF example (like Bluetooth, SD, Recorder, etc
 ### 🤝 Contributing
 Feel free to fork, PR, or open an issue if you’ve got ideas, fixes, or run into bugs. Even tips you learn the hard way are welcome — let’s help the next dev out.
 
+Made with 💻 and 🔊 by someone who wanted better docs for this board and broken examples.
